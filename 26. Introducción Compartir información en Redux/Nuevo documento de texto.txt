@@ -1,0 +1,1 @@
+A partir de este módulo aprenderemos a usar Redux de una forma más avanzada, actualizar información dinámicamente y manejar diferentes reducers.
