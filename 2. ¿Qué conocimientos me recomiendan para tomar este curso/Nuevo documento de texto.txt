@@ -1,0 +1,19 @@
+Estamos felices de que quieras fortalecer tus destrezas como desarrollador Frontend. Si quieres aprender a usar Redux, la librería de Javascript usada por Instagram para facilitar el desarrollo de aplicaciones web interactivas, este curso es para ti.
+
+Antes de comenzar con las primeras clases quiero hacerte algunas recomendaciones de algunos conocimientos previos o paralelos que podrías repasar para aprovechar mucho mejor las clases que nuestro profesor Rodolfo Saldivar, quien además es mentor en Bedu, ha preparado para ti en este curso de Redux.
+
+Fundamentos JavaScript:
+
+Este curso te enseñará las bases de JavaScript para construir programas a través de las herramientas básicas de JavaScript. Te será muy útil para familiarizarte con los conceptos que usa el profesor a lo largo del curso.
+
+Curso de HTML y CSS:
+Aprende a crear una página web. Desde el bocetaje, pasando por la maquetación y llegando a darle estilos.
+
+Curso de desarrollo web online:
+Este curso te explicará de manera detallada todas las bases conceptuales para entender el proceso y uso de HTML.
+
+Curso de React.js:
+
+Crea tu primer sitio web con React.js, domina el ciclo de vida de un componente y desarrolla aplicaciones web de muy alta calidad en tiempo record con React.js
+
+¿Quieres comenzar las clases de nuestro curso de Redux sin ver estos cursos? Claro que puedes hacerlo. Estas recomendaciones están especialmente diseñadas para aquellos que están comenzando en el maravilloso mundo de la programación frontend.

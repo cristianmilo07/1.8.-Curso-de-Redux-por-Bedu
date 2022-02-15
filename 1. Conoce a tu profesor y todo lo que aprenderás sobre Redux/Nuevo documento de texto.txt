@@ -1,0 +1,5 @@
+¡Te damos la bienvenida al Curso de Redux por Bedu!
+
+En este curso nuestro profesor Rodolfo Saldívar Hernández, interesado por el sector de la tecnología y la educación y mentor en la escuela de tecnología Bedu, nos enseñará los diferentes enfoques en los cuales podremos utilizar Redux como manejador de un único estado.
+
+Recuerda que cualquier duda puedes usar nuestro sistema de discusiones. ¡Nunca pares de aprender!

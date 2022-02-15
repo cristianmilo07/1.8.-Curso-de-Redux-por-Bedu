@@ -1,0 +1,6 @@
+Tenemos 4 fases por los que un componente pasa:
+
+Initialization: Declaramos nuestro estado o propiedades
+Mounting: Todo componente debe tener render. Es obligatorio.
+Updation
+Unmounting: Solo hay una función en caso de que queramos hacer algo cuando se destruya un componente

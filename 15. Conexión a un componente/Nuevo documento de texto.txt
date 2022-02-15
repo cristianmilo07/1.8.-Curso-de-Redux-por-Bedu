@@ -1,0 +1,5 @@
+Lecturas recomendadas
+
+Reducers · Redux en Español
+
+https://es.redux.js.org/docs/basico/reducers.html

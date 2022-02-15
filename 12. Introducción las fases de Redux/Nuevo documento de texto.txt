@@ -1,0 +1,11 @@
+Los cuatro pilares de Redux son:
+
+Store: Almacenamiento
+Reducers: Estados
+Action Creators: Funciones
+Componente: Código JSX
+Lecturas recomendadas
+
+Read Me · Redux en Español
+
+https://es.redux.js.org/
